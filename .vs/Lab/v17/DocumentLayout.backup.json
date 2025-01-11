@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80DAC2-8AB3-4976-870F-A833C054B23D}|Lab\\Lab.vcxproj|C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10b\\Lab\\lab10b.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C80DAC2-8AB3-4976-870F-A833C054B23D}|Lab\\Lab.vcxproj|solutionrelative:Lab\\lab10b.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80DAC2-8AB3-4976-870F-A833C054B23D}|Lab\\Lab.vcxproj|C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10a\\Lab\\normalMap.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80DAC2-8AB3-4976-870F-A833C054B23D}|Lab\\Lab.vcxproj|C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10a\\Lab\\normalMap.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80DAC2-8AB3-4976-870F-A833C054B23D}|Lab\\Lab.vcxproj|C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10b\\Lab\\reflection.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9C80DAC2-8AB3-4976-870F-A833C054B23D}|Lab\\Lab.vcxproj|solutionrelative:Lab\\reflection.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80DAC2-8AB3-4976-870F-A833C054B23D}|Lab\\Lab.vcxproj|C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10b\\Lab\\lighting.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9C80DAC2-8AB3-4976-870F-A833C054B23D}|Lab\\Lab.vcxproj|solutionrelative:Lab\\lighting.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80DAC2-8AB3-4976-870F-A833C054B23D}|Lab\\Lab.vcxproj|C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 9\\Visual Studio Projects\\Lab9a\\Lab\\lighting_cubemap.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80DAC2-8AB3-4976-870F-A833C054B23D}|Lab\\Lab.vcxproj|C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10b\\Lab\\reflectionTexture.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9C80DAC2-8AB3-4976-870F-A833C054B23D}|Lab\\Lab.vcxproj|solutionrelative:Lab\\reflectionTexture.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80DAC2-8AB3-4976-870F-A833C054B23D}|Lab\\Lab.vcxproj|C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10b\\Lab\\pointLightTexture.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9C80DAC2-8AB3-4976-870F-A833C054B23D}|Lab\\Lab.vcxproj|solutionrelative:Lab\\pointLightTexture.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "normalMap.frag",
+              "DocumentMoniker": "C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10a\\Lab\\normalMap.frag",
+              "RelativeDocumentMoniker": "..\\Lab10a\\Lab\\normalMap.frag",
+              "ToolTip": "C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10a\\Lab\\normalMap.frag",
+              "RelativeToolTip": "..\\Lab10a\\Lab\\normalMap.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-04T00:35:14.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "normalMap.vert",
+              "DocumentMoniker": "C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10a\\Lab\\normalMap.vert",
+              "RelativeDocumentMoniker": "..\\Lab10a\\Lab\\normalMap.vert",
+              "ToolTip": "C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10a\\Lab\\normalMap.vert",
+              "RelativeToolTip": "..\\Lab10a\\Lab\\normalMap.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-04T00:35:10.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lighting.vert",
+              "DocumentMoniker": "C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10b\\Lab\\lighting.vert",
+              "RelativeDocumentMoniker": "Lab\\lighting.vert",
+              "ToolTip": "C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10b\\Lab\\lighting.vert",
+              "RelativeToolTip": "Lab\\lighting.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-04T00:22:45.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lighting_cubemap.frag",
+              "DocumentMoniker": "C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 9\\Visual Studio Projects\\Lab9a\\Lab\\lighting_cubemap.frag",
+              "RelativeDocumentMoniker": "..\\..\\..\\Lab 9\\Visual Studio Projects\\Lab9a\\Lab\\lighting_cubemap.frag",
+              "ToolTip": "C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 9\\Visual Studio Projects\\Lab9a\\Lab\\lighting_cubemap.frag",
+              "RelativeToolTip": "..\\..\\..\\Lab 9\\Visual Studio Projects\\Lab9a\\Lab\\lighting_cubemap.frag",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAD8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-04T00:22:48.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pointLightTexture.frag",
+              "DocumentMoniker": "C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10b\\Lab\\pointLightTexture.frag",
+              "RelativeDocumentMoniker": "Lab\\pointLightTexture.frag",
+              "ToolTip": "C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10b\\Lab\\pointLightTexture.frag",
+              "RelativeToolTip": "Lab\\pointLightTexture.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-25T06:39:13.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab10b.cpp",
+              "DocumentMoniker": "C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10b\\Lab\\lab10b.cpp",
+              "RelativeDocumentMoniker": "Lab\\lab10b.cpp",
+              "ToolTip": "C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10b\\Lab\\lab10b.cpp",
+              "RelativeToolTip": "Lab\\lab10b.cpp",
+              "ViewState": "AgIAAJYCAAAAAAAAAAAtwKkCAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T09:48:53.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "reflectionTexture.frag",
+              "DocumentMoniker": "C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10b\\Lab\\reflectionTexture.frag",
+              "RelativeDocumentMoniker": "Lab\\reflectionTexture.frag",
+              "ToolTip": "C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10b\\Lab\\reflectionTexture.frag",
+              "RelativeToolTip": "Lab\\reflectionTexture.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-25T07:07:42.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "reflection.frag",
+              "DocumentMoniker": "C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10b\\Lab\\reflection.frag",
+              "RelativeDocumentMoniker": "Lab\\reflection.frag",
+              "ToolTip": "C:\\Users\\decla\\OneDrive - University of Wollongong\\2024 UNI SEM SPR\\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\\Labs\\Lab 10\\Visual Studio Projects\\Lab10b\\Lab\\reflection.frag",
+              "RelativeToolTip": "Lab\\reflection.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-25T06:41:32.152Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

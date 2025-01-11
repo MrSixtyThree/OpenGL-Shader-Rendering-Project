@@ -1,0 +1,5 @@
+﻿  lab10b.cpp
+C:\Users\decla\OneDrive - University of Wollongong\2024 UNI SEM SPR\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\Labs\Lab 10\Visual Studio Projects\Lab10b\Lab\lab10b.cpp(601,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\decla\OneDrive - University of Wollongong\2024 UNI SEM SPR\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\Labs\Lab 10\Visual Studio Projects\Lab10b\Lab\lab10b.cpp(602,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\decla\OneDrive - University of Wollongong\2024 UNI SEM SPR\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\Labs\Lab 10\Visual Studio Projects\Lab10b\Lab\lab10b.cpp(780,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab.vcxproj -> C:\Users\decla\OneDrive - University of Wollongong\2024 UNI SEM SPR\CSCI336 - INTERACTIVE COMPUTER GRAPHICS\Labs\Lab 10\Visual Studio Projects\Lab10b\Debug\Lab.exe
